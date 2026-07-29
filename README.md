@@ -21,6 +21,21 @@ The official gameplay showcase for my Bachelor of Science graduation project. De
 
 ---
 
+## 📂 Production Builds & Immersive Technology Showcases
+
+For technical deep-dives, standalone build testing, and uncompressed high-bitrate media files, you can access individual assets directly within my [Public Google Drive Directory](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC).
+
+### 🥽 XR & Simulation Backups (VR/AR)
+* 🎬 [**EKSON VR Dental Training Demonstration (.mp4)**](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC) - Immersive medical simulation asset demonstrating high-precision interaction tracking.
+* 🎬 [**AR Card Gameplay System (.mp4)**](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC) - Augmented reality tracker asset mapping physical anchors to virtual interfaces.
+* 🎬 [**Robot Hardware Simulation Walkthrough (.wmv)**](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC) - In-depth tracking of the LEGO EV3/Spike emulation engine data layout.
+* 🎬 [**Panama Mission Block Logic (.mp4)**](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC) - Demonstrates the visual block-to-compiler logic system running in real-time.
+
+### 🕹️ Production Application Builds (.APK)
+* 📦 [**InsuranceMarket Mobile Application Build (.apk)**](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC) - Standalone archive of the heavily optimized, ad-monetized commercial application.
+* 📦 [**Sigato Multiplayer Board Game Builds (ARM32 / ARM64 .apk)**](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC) - Deployable binaries showcasing client-side network lobby packaging.
+
+
 ## 📂 Raw Media & Asset Backups
 
 For high-bitrate video file inspects, uncompressed gameplay clips, or user interface design archives, you can access the public shared directory below:
