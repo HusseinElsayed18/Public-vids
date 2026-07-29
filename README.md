@@ -11,10 +11,13 @@ A complete look at the game mechanics, grid assembly, and gameplay feedback loop
 * 📺 [**Watch on YouTube (120 FPS Demo)**](https://www.youtube.com/watch?v=8mLVHHbMWg8) *(Update this link to your matching game video if needed)*
 * 📂 [**Review Source Code Repository**](https://github.com/HusseinElsayed18/Demo-UI-excluded-for-CST)
 
-### 2. ⚡ Technical Showcase & State Progression
+### 2. 📱 Sigato - Multiplayer 2D Digital Board Game (Mobile)
+A gameplay demonstration of Sigato, which is successfully deployed on the Google Play Store. This showcase highlights real-time client-server synchronization and online lobby matchmaking pipelines.
+* 📺 [**Watch on YouTube (Sigato Demo)**](https://youtube.com/watch?v=bzDiuxZewM8)
 
-* 📺 [**Watch on YouTube Video 1**](https://youtube.com/watch?v=bzDiuxZewM8)
-* 📺 [**Watch on YouTube Video 2**](https://youtube.com/watch?v=ogYcS1jGHEk)
+### 3. 🏎️ Cinema Cars Race - 3D Racing Game (PC)
+The official gameplay showcase for my Bachelor of Science graduation project. Demonstrates full gameplay architecture, 3D physics handling, and asset optimization in a standalone PC build.
+* 📺 [**Watch on YouTube (3D Race Demo)**](https://youtube.com/watch?v=ogYcS1jGHEk)
 
 ---
 
