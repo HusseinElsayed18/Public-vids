@@ -8,7 +8,7 @@ Welcome to my public video repository! This directory serves as a centralized hu
 
 ### 1. 🧩 Unity Matching Game - Full Loop Demo
 A complete look at the game mechanics, grid assembly, and gameplay feedback loop running under optimized mobile conditions.
-* 📺 [**Watch on YouTube (120 FPS Demo)**](https://www.youtube.com/watch?v=8mLVHHbMWg8) *(Update this link to your matching game video if needed)*
+* 📺 [**Watch on YouTube (120 FPS Demo)**](https://www.youtube.com/watch?v=8mLVHHbMWg8)
 * 📂 [**Review Source Code Repository**](https://github.com/HusseinElsayed18/Demo-UI-excluded-for-CST)
 
 ### 2. 📱 Sigato - Multiplayer 2D Digital Board Game (Mobile)
