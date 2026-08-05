@@ -17,11 +17,11 @@ A complete look at the game mechanics, grid assembly, and gameplay feedback loop
 A gameplay demonstration of Sigato, which is successfully deployed on the Google Play Store. This showcase highlights real-time client-server synchronization and online lobby matchmaking pipelines.
 * 👥 **Join the open testing group:** [Sigato-Testers Google Group](https://groups.google.com/g/sigato-testers) (Anyone can join to download and test the game!)
 * 📲 **Download on Google Play:** [Get Sigato on Google Play Store](https://play.google.com/store/apps/details?id=com.EgyGamesStudios.Sigato) 
-* 📺 **Watch on YouTube:** [Sigato Demo](https://www.youtube.com/playlist?list=PLYiSi-PMA1dfs3z14nCH2_YSh_EQ8HEPc)
+* 📺 **Watch on YouTube:** [Sigato Videos](https://www.youtube.com/playlist?list=PLYiSi-PMA1dfs3z14nCH2_YSh_EQ8HEPc)
 
 ### 3. 🏎️ Cinema Cars Race - 3D Racing Game (PC)
 The official gameplay showcase for my Bachelor of Science graduation project. Demonstrates full gameplay architecture, 3D physics handling, and asset optimization in a standalone PC build.
-* 📺 [**Watch on YouTube (3D Race Demo)**](https://youtube.com/watch?v=ogYcS1jGHEk)
+* 📺 [**Watch on YouTube (3D Race Game)**](https://youtube.com/watch?v=ogYcS1jGHEk)
 
 ---
 
