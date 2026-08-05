@@ -12,7 +12,7 @@ A complete look at the game mechanics, grid assembly, and gameplay feedback loop
 * 📺 [**Watch on YouTube (120 FPS Demo)**](https://www.youtube.com/watch?v=8mLVHHbMWg8)
 * 📂 [**Review Source Code Repository**](https://github.com/HusseinElsayed18/Demo-UI-excluded-for-CST)
 
-### 2. 📱 Sigato - Multiplayer 2D Digital Board Game (Mobile)
+### 2. 📱 Sigato - Multiplayer 2D Digital Board Game (Mobile) [is a digital adaptation of the traditional board game Seega (سيجة)]
 
 A gameplay demonstration of Sigato, which is successfully deployed on the Google Play Store. This showcase highlights real-time client-server synchronization and online lobby matchmaking pipelines.
 * 👥 **Join the open testing group:** [Sigato-Testers Google Group](https://groups.google.com/g/sigato-testers) (Anyone can join to download and test the game!)
