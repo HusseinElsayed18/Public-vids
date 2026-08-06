@@ -36,6 +36,10 @@ https://github.com/user-attachments/assets/a86eef8c-f199-4206-b3c8-85b2d3f4a6fe
 
 
 * 🎬 [**AR Card Gameplay System (.mp4)**](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC) - Augmented reality tracker asset mapping physical anchors to virtual interfaces.
+
+https://github.com/user-attachments/assets/1b895839-7f9e-448a-8e0f-452177c0196c
+
+  
 * 🎬 [**Robot Hardware Simulation Walkthrough (.wmv)**](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC) - In-depth tracking of the LEGO EV3/Spike emulation engine data layout.
 * 🎬 [**Panama Mission Block Logic (.mp4)**](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC) - Demonstrates the visual block-to-compiler logic system running in real-time.
 
