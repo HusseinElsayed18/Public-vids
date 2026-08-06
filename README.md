@@ -30,7 +30,7 @@ The official gameplay showcase for my Bachelor of Science graduation project. De
 For technical deep-dives, standalone build testing, and uncompressed high-bitrate media files, you can access individual assets directly within my [Public Google Drive Directory](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC).
 
 ### 🥽 XR & Simulation Backups (VR/AR)
-* 🎬 [**EKSON VR Dental Training Demonstration (.mp4)**](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC) - Immersive medical simulation asset demonstrating high-precision interaction tracking.
+* 🎬 [**EKSON Company VR Dental Training Demonstration (.mp4)**](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC) - Immersive medical simulation asset demonstrating high-precision interaction tracking.
 
 https://github.com/user-attachments/assets/a86eef8c-f199-4206-b3c8-85b2d3f4a6fe
 
@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/a86eef8c-f199-4206-b3c8-85b2d3f4a6fe
 
 https://github.com/user-attachments/assets/1b895839-7f9e-448a-8e0f-452177c0196c
 
-* 🕹️ Developed a gamified educational robotics simulation engine matching LEGO EV3 and Spike hardware ecosystems.
+* 🕹️ Thaka Company Developed a gamified educational robotics simulation engine matching LEGO EV3 and Spike hardware ecosystems.
 • Integrated custom internal EV3 and Spike Python compilers to translate visual block-based programming logic into
 simulation mechanics.
 • Designed core gameplay structures for interactive modules, including specialized logic tracking for the 'Panama mission'.  
@@ -48,7 +48,7 @@ simulation mechanics.
 
 ### 🕹️ Production Application Builds (.APK)
 * 📦 [**InsuranceMarket Mobile Application Build (.apk)**](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC) - Standalone archive of the heavily optimized, ad-monetized commercial application.
-* 📦 [**Sigato Multiplayer Board Game Builds (ARM32 / ARM64 .apk)**](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC) - Deployable binaries showcasing client-side network lobby packaging.
+* 📦 [**Sigato Multiplayer Board Game Builds (ARM32 / ARM64 .apk)**](https://play.google.com/store/apps/details?id=com.EgyGamesStudios.Sigato) - Deployable binaries showcasing client-side network lobby packaging.
 
 
 ## 📂 Raw Media & Asset Backups
