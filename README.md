@@ -13,6 +13,7 @@ A full end-to-end Virtual Reality cybersecurity compliance guide built from scra
 * **🛠 Tech Stack:** Unity, VRIF (VR Interaction Framework), Meta Quest / OpenXR
 * **🎯 Key Features:** Interactive office environment, custom hand poses, physical drawer/door physics, task-tracking triggers, and dynamic spatial narrator audio.
 * **📺 Watch on YouTube:** [VR Clean Desk Policy - Robot Guide Showcase](https://www.youtube.com/watch?v=5-pReqDcp_M)
+  
 [![VR Clean Desk Policy Robot Guide](https://img.youtube.com/vi/5-pReqDcp_M/maxresdefault.jpg)](https://www.youtube.com/watch?v=5-pReqDcp_M)
 
 
@@ -22,6 +23,7 @@ A gameplay demonstration of Sigato, which is successfully deployed on the Google
 * 👥 **Join the open testing group:** [Sigato-Testers Google Group](https://groups.google.com/g/sigato-testers) (Anyone can join to download and test the game!)
 * 📲 **Download on Google Play:** [Get Sigato on Google Play Store](https://play.google.com/store/apps/details?id=com.EgyGamesStudios.Sigato) 
 * 📺 **Watch on YouTube:** [Sigato Videos](https://www.youtube.com/playlist?list=PLYiSi-PMA1dfs3z14nCH2_YSh_EQ8HEPc)
+  
 https://github.com/user-attachments/assets/a1b9741e-3af1-435f-991b-fad12874652b
 
 ### 🧩 Unity Matching Game - Full Loop Demo
