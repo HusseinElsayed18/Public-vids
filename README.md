@@ -58,6 +58,9 @@ https://github.com/user-attachments/assets/1b895839-7f9e-448a-8e0f-452177c0196c
 simulation mechanics.
 • Designed core gameplay structures for interactive modules, including specialized logic tracking for the 'Panama mission'.  
 * 🎬 [**Robot Hardware Simulation Walkthrough (.wmv)**](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC) - In-depth tracking of the LEGO EV3/Spike emulation engine data layout.
+
+https://github.com/user-attachments/assets/f3ca82bb-6732-43ab-a95c-9ca730114e28
+
 * 🎬 [**Panama Mission Block Logic (.mp4)**](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC) - Demonstrates the visual block-to-compiler logic system running in real-time.
 
 https://github.com/user-attachments/assets/49a05a66-c1f5-4fae-9132-eca70a1f9ba6
