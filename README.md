@@ -31,9 +31,6 @@ For technical deep-dives, standalone build testing, and uncompressed high-bitrat
 
 ### 🥽 XR & Simulation Backups (VR/AR)
 * 🎬 [**EKSON VR Dental Training Demonstration (.mp4)**](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC) - Immersive medical simulation asset demonstrating high-precision interaction tracking.
- 
- https://github.com/HusseinElsayed18/Public-vids/blob/main/EKSON%20VR%20Dental%20Training%20Enhances%20Precision%20and%20Confidence%20EKSON.mp4
-
 * 🎬 [**AR Card Gameplay System (.mp4)**](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC) - Augmented reality tracker asset mapping physical anchors to virtual interfaces.
 * 🎬 [**Robot Hardware Simulation Walkthrough (.wmv)**](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC) - In-depth tracking of the LEGO EV3/Spike emulation engine data layout.
 * 🎬 [**Panama Mission Block Logic (.mp4)**](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC) - Demonstrates the visual block-to-compiler logic system running in real-time.
