@@ -12,7 +12,7 @@ A full end-to-end Virtual Reality cybersecurity compliance guide built from scra
 
 * **🛠 Tech Stack:** Unity, VRIF (VR Interaction Framework), Meta Quest / OpenXR
 * **🎯 Key Features:** Interactive office environment, custom hand poses, physical drawer/door physics, task-tracking triggers, and dynamic spatial narrator audio.
-* **📺 Watch on YouTube:** [VR Clean Desk Policy - Robot Guide Showcase](https://www.youtube.com/watch?v=5-pReqDcp_M)
+* **📺 Watch on YouTube:** [VR Clean Desk Policy Robot guide English Narrator](https://www.youtube.com/watch?v=5-pReqDcp_M)
   
 [![VR Clean Desk Policy Robot Guide](https://img.youtube.com/vi/5-pReqDcp_M/maxresdefault.jpg)](https://www.youtube.com/watch?v=5-pReqDcp_M)
 
