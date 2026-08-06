@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/a86eef8c-f199-4206-b3c8-85b2d3f4a6fe
-
 # Public Video Resources & Project Demos
 
 Welcome to my public video repository! This directory serves as a centralized hub hosting gameplay demonstrations, technical layout walkthroughs, and performance benchmarks for my active Unity & C# development projects.
