@@ -53,12 +53,15 @@ https://github.com/user-attachments/assets/a86eef8c-f199-4206-b3c8-85b2d3f4a6fe
 
 https://github.com/user-attachments/assets/1b895839-7f9e-448a-8e0f-452177c0196c
 
-* 🕹️ Developed a gamified educational robotics simulation engine matching LEGO EV3 and Spike hardware ecosystems.
+* 🕹️ [**Developed a gamified educational robotics simulation engine matching LEGO EV3 and Spike hardware ecosystems.**](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC)
 • Integrated custom internal EV3 and Spike Python compilers to translate visual block-based programming logic into
 simulation mechanics.
 • Designed core gameplay structures for interactive modules, including specialized logic tracking for the 'Panama mission'.  
 * 🎬 [**Robot Hardware Simulation Walkthrough (.wmv)**](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC) - In-depth tracking of the LEGO EV3/Spike emulation engine data layout.
 * 🎬 [**Panama Mission Block Logic (.mp4)**](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC) - Demonstrates the visual block-to-compiler logic system running in real-time.
+
+https://github.com/user-attachments/assets/49a05a66-c1f5-4fae-9132-eca70a1f9ba6
+
 
 ### 🕹️ Production Application Builds (.APK)
 * 📦 [**InsuranceMarket Mobile Application Build (.apk)**](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC) - Standalone archive of the heavily optimized, ad-monetized commercial application.
