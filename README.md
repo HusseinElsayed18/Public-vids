@@ -6,20 +6,30 @@ Welcome to my public video repository! This directory serves as a centralized hu
 
 ## 🎮 Featured Game Demos & Walkthroughs
 
-### 1. 🧩 Unity Matching Game - Full Loop Demo
+### 🥽 VR Clean Desk Policy - Interactive Training Simulation (VR)
+
+A full end-to-end Virtual Reality cybersecurity compliance guide built from scratch in **Unity** using the **VR Interaction Framework (VRIF)**. This simulation highlights custom object interactions, spatial mechanics (socket snapping, physical triggers, surface wiping), and interactive audio/narrator pipelines designed to train employees on workplace data security.
+
+* **🛠 Tech Stack:** Unity, VRIF (VR Interaction Framework), Meta Quest / OpenXR
+* **🎯 Key Features:** Interactive office environment, custom hand poses, physical drawer/door physics, task-tracking triggers, and dynamic spatial narrator audio.
+* **📺 Watch on YouTube:** [VR Clean Desk Policy - Robot Guide Showcase](https://www.youtube.com/watch?v=5-pReqDcp_M)
+
+[![VR Clean Desk Policy Robot Guide](https://img.youtube.com/vi/5-pReqDcp_M/maxresdefault.jpg)](https://www.youtube.com/watch?v=5-pReqDcp_M)
+
+### 🧩 Unity Matching Game - Full Loop Demo
 
 A complete look at the game mechanics, grid assembly, and gameplay feedback loop running under optimized mobile conditions.
 * 📺 [**Watch on YouTube (120 FPS Demo)**](https://www.youtube.com/watch?v=8mLVHHbMWg8)
 * 📂 [**Review Source Code Repository**](https://github.com/HusseinElsayed18/Demo-UI-excluded-for-CST)
 
-### 2. 📱 Sigato - Multiplayer 2D Digital Board Game (Mobile) [is a digital adaptation of the traditional board game Seega (سيجة)]
+### 📱 Sigato - Multiplayer 2D Digital Board Game (Mobile) [is a digital adaptation of the traditional board game Seega (سيجة)]
 
 A gameplay demonstration of Sigato, which is successfully deployed on the Google Play Store. This showcase highlights real-time client-server synchronization and online lobby matchmaking pipelines.
 * 👥 **Join the open testing group:** [Sigato-Testers Google Group](https://groups.google.com/g/sigato-testers) (Anyone can join to download and test the game!)
 * 📲 **Download on Google Play:** [Get Sigato on Google Play Store](https://play.google.com/store/apps/details?id=com.EgyGamesStudios.Sigato) 
 * 📺 **Watch on YouTube:** [Sigato Videos](https://www.youtube.com/playlist?list=PLYiSi-PMA1dfs3z14nCH2_YSh_EQ8HEPc)
 
-### 3. 🏎️ Cinema Cars Race - 3D Racing Game (PC)
+### 🏎️ Cinema Cars Race - 3D Racing Game (PC)
 The official gameplay showcase for my Bachelor of Science graduation project. Demonstrates full gameplay architecture, 3D physics handling, and asset optimization in a standalone PC build.
 * 📺 [**Watch on YouTube (3D Race Game)**](https://youtube.com/watch?v=ogYcS1jGHEk)
 
