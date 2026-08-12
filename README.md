@@ -16,6 +16,10 @@ A full end-to-end Virtual Reality cybersecurity compliance guide built from scra
   
 [![VR Clean Desk Policy Robot Guide](https://img.youtube.com/vi/5-pReqDcp_M/maxresdefault.jpg)](https://www.youtube.com/watch?v=5-pReqDcp_M)
 
+* [Arabic Version](https://www.youtube.com/watch?v=Q6EudAgW12M)
+
+[![VR Clean Desk Policy Arabic Guide](https://img.youtube.com/vi/Q6EudAgW12M/maxresdefault.jpg)](https://www.youtube.com/watch?v=Q6EudAgW12M)
+
 
 ### 📱 Sigato - Multiplayer 2D Digital Board Game (Mobile) [is a digital adaptation of the traditional board game Seega (سيجة)]
 
