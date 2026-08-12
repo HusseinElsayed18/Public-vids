@@ -10,7 +10,7 @@ Welcome to my public video repository! This directory serves as a centralized hu
 
 A full end-to-end Virtual Reality cybersecurity compliance guide built from scratch in **Unity** using the **VR Interaction Framework (VRIF)**. This simulation highlights custom object interactions, spatial mechanics (socket snapping, physical triggers, surface wiping), and interactive audio/narrator pipelines designed to train employees on workplace data security.
 
-* **🛠 Tech Stack:** Unity, VRIF (VR Interaction Framework), Meta Quest / OpenXR
+* **🛠 Tech Stack:** Unity, VRIF (VR Interaction Framework), Meta Quest / Pico
 * **🎯 Key Features:** Interactive office environment, custom hand poses, physical drawer/door physics, task-tracking triggers, and dynamic spatial narrator audio.
 * **📺 Watch on YouTube:** [VR Clean Desk Policy Robot guide English Narrator](https://www.youtube.com/watch?v=5-pReqDcp_M)
   
