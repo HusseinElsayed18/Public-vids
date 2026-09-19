@@ -40,6 +40,21 @@ A gameplay demonstration of Sigato, which is successfully deployed on the Google
   
 https://github.com/user-attachments/assets/a1b9741e-3af1-435f-991b-fad12874652b
 
+
+### 🔢 Object & Digit Detector - Computer Vision Pipeline [AI-powered numerical digit & object recognition system]
+
+
+https://github.com/user-attachments/assets/5d93108c-5c43-4821-97b8-dd5253fd8c24
+
+
+<!--
+A technical demonstration showcasing real-time image processing, bounding box localization, and digit classification pipelines for automated object detection.
+
+* 🔍 **Key Features:** Real-time visual tracking, noise filtering, contours extraction, and neural network classification.
+* 💻 **Explore Code & Notebooks:** [View Model & Detection Scripts](./object-digit-detector)
+* 📺 **Watch on YouTube:** [Object Digit Detector Showcase](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
+-->
+
 ### 🧩 Unity Matching Game - Full Loop Demo
 
 A complete look at the game mechanics, grid assembly, and gameplay feedback loop running under optimized mobile conditions.
