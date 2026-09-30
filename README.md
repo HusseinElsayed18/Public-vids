@@ -6,11 +6,9 @@ Welcome to my public video repository! This directory serves as a centralized hu
 
 ## 🎮 Featured Game Demos & Walkthroughs
 
-### 📱 Sigato - V2.0
+### 📱 Sigato - V2.0 [SOON]
 
-<!--
 https://github.com/user-attachments/assets/34784838-a2f3-44f3-bad0-662a96803f5f
--->
 
 
 ### 🥽 VR Clean Desk Policy - Interactive Training Simulation (VR)
