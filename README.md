@@ -5,6 +5,8 @@
   <a href="mailto:husseinelsayed4g@gmail.com">📧 Email Me</a>
 </p>
 
+<!--
+
 # Public Video Resources & Project Demos
 
 Welcome to my public video repository! This directory serves as a centralized hub hosting gameplay demonstrations, technical layout walkthroughs, and performance benchmarks for my active Unity & C# development projects.
@@ -60,7 +62,7 @@ A technical demonstration showcasing real-time image processing, bounding box lo
 * 💻 **Explore Code & Notebooks:** [View Model & Detection Scripts](./object-digit-detector)
 * 📺 **Watch on YouTube:** [Object Digit Detector Showcase](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
 -->
-
+<!--
 ### 🧩 Unity Matching Game - Full Loop Demo
 
 A complete look at the game mechanics, grid assembly, and gameplay feedback loop running under optimized mobile conditions.
@@ -120,5 +122,7 @@ https://github.com/user-attachments/assets/1592f3ff-bbb6-4389-a9fe-1d2aad15ad9e
 For high-bitrate video file inspects, uncompressed gameplay clips, or user interface design archives, you can access the public shared directory below:
 
 📥 [**Access the Public Google Drive Asset Folder**](https://drive.google.com/drive/folders/1Ae9f1amhLPNlsAWUK48IeEXf-KoLj8bC)
+
+-->
 
 
