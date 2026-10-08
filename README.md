@@ -1,7 +1,9 @@
 
-# My prtofolio 
-
-https://husseinelsayed18.github.io
+<p align="center">
+  <a href="https://husseinelsayed18.github.io">🌐 Portfolio</a> &nbsp;&bull;&nbsp;
+  <a href="https://www.youtube.com/@egygamesstudios">📺 Egy Games Studios YouTube</a> &nbsp;&bull;&nbsp;
+  <a href="mailto:husseinelsayed4g@gmail.com">📧 Email Me</a>
+</p>
 
 # Public Video Resources & Project Demos
 
